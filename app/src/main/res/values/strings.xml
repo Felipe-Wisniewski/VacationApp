@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">VacationPlanner</string>
+    <string name="title_app">The Vacation Planner</string>
+
+    <string name="text_destination">DESTINATION</string>
+    <string name="text_days">DAYS</string>
+    <string name="text_year">YEAR</string>
+    <string name="text_weather">WEATHER</string>
+    <string name="text_button_search">SEARCH DAYS</string>
+    <string name="tv_weather_selected">Selected!</string>
+
+    <string name="img_icon_place">icon_place</string>
+    <string name="img_icon_days">Icon days</string>
+    <string name="img_icon_weather">Icon weather</string>
+
+    <string name="header_list_choices">Best choices for you:</string>
+
+    <string name="hint_month_from">June</string>
+    <string name="hint_day_from">10</string>
+    <string name="tv_list_to">TO</string>
+    <string name="hint_month_to">July</string>
+    <string name="hint_day_to">10</string>
+
+    <string name="adialog_destination">What is your destiny?</string>
+    <string name="adialog_day">How many days of vacation?</string>
+    <string name="adialog_year">What year of vacation?</string>
+    <string name="adialog_weather">What weather do you want?</string>
+
+    <string name="error_form_destination">Choose destination!</string>
+    <string name="error_form_days_year">( ! )</string>
+    <string name="error_form_weather">Choose the weather!</string>
+
+    <string name="error_load_data">Error load data!</string>
+
+    <string-array name="days">
+        <item>1</item><item>2</item><item>3</item><item>4</item><item>5</item>
+        <item>6</item><item>7</item><item>8</item><item>9</item><item>10</item>
+        <item>11</item><item>12</item><item>13</item><item>14</item><item>15</item>
+        <item>16</item><item>17</item><item>18</item><item>19</item><item>20</item>
+        <item>21</item><item>22</item><item>23</item><item>24</item><item>25</item>
+        <item>26</item><item>27</item><item>28</item><item>29</item><item>30</item>
+    </string-array>
+</resources>

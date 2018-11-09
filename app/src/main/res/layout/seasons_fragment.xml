@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="4dp"
+    android:orientation="vertical"
+    tools:context=".ui.seasons.SeasonsFragment">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/header_list_choices"
+        android:textColor="@color/primary_dark"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:background="@color/primary_light"
+        android:layout_marginBottom="4dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycleSeasons"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
